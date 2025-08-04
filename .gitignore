@@ -1,0 +1,9 @@
+# Java
+target/
+*.class
+
+# Logs
+*.log
+
+# Others
+
