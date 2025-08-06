@@ -6,4 +6,7 @@ target/
 *.log
 
 # Others
-
+.vscode/
+.idea/
+.DS_Store
+*:Zone.Identifier
